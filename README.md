@@ -1,4 +1,4 @@
-# 💫 About Me:
+#👨🏽‍💻 About Paul Miell:
 Unity game development projects<br>Unity plugins
 
 
@@ -15,8 +15,8 @@ Unity game development projects<br>Unity plugins
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paxron777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### ✍️ My Motto
+goodgame = playerexperience x emotion
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paxron777&icon=2&color=0)](https://visitcount.itsvg.in)
