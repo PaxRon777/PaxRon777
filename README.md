@@ -1,4 +1,4 @@
-## https://www.linkedin.com/in/miell/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BxqtKlZYyQHGxmG94xSkU%2FA%3D%3D👨🏽‍💻 About Paul Miell:
+##  <img src="https://skillicons.dev/icons?i=unity" /> About Paul Miell:
 Unity game development projects<br>Unity plugins
 
 
