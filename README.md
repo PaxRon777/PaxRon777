@@ -12,7 +12,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paxron777&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=paxron777&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paxron777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
