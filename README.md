@@ -16,6 +16,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paxron777&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+![The Prometheus Secret](https://ahavah.azurewebsites.net/images/prometheusflashscreenwebsite.jpg)
+
 ### ✍️ My Motto
 goodgame = playerexperience x emotion
 
