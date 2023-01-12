@@ -1,5 +1,5 @@
 ##  <img src="https://skillicons.dev/icons?i=unity" /> About Paul Miell:
-* Lead Unity Game Devloper @ Made For Gamers<br>
+* Lead Unity Devloper @ Made For Gamers<br>
 * Unity game development<br>
 * Unity plugin development
 
