@@ -13,6 +13,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paxron777&theme=highcontrast&hide_border=true)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paxron777&show_icons=true&theme=radical)
 ![](https://api.githubtrends.io/user/svg/PaxRon777/repos?time_range=one_year&loc_metric=changed&theme=dark)<br/>
 
 ## Projects
