@@ -15,6 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paxron777&theme=highcontrast&hide_border=true)<br/>
 ![](https://api.githubtrends.io/user/svg/PaxRon777/repos?time_range=one_year&loc_metric=changed&theme=dark)<br/>
 
+## Projects
 The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam. - 
 [Steam Page](https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra)
 
