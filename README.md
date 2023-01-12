@@ -18,7 +18,7 @@
 <br/><br/>
 The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam. 
 [Steam Page](https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra)
-<p align="left"> <a href="https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra" target="_blank" rel="noreferrer">STEAM PAGE <image>https://ahavah.azurewebsites.net/images/prometheusflashscreenwebsite.jpg</image></a> </p>
+<p align="left"> <a href="https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra" target="_blank" rel="noreferrer">STEAM PAGE <image href="https://ahavah.azurewebsites.net/images/prometheusflashscreenwebsite.jpg"></a> </p>
 
 
 ![The Prometheus Secret](https://ahavah.azurewebsites.net/images/prometheusflashscreenwebsite.jpg)
