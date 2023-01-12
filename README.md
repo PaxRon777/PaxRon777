@@ -13,8 +13,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paxron777&theme=highcontrast&hide_border=true)<br/>
-![](https://api.githubtrends.io/user/svg/PaxRon777/repos?time_range=one_year&loc_metric=changed&theme=dark)<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paxron777)](https://github.com/paxron777/github-readme-stats)
 
 ## Projects
 The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam. - 
