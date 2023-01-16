@@ -12,11 +12,11 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=paxron777&theme=dark&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=paxron777&theme=dark&date_format=j%20M%5B%20Y%5D)]
 
 ## Projects
-The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam. - 
-![Steam Page](https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra)
+The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam.  
+[![Steam Page](https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra)]
 
 <p align="left"> <a href="https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra" target="_blank"><img src="https://ahavah.azurewebsites.net/images/prometheusflashscreenwebsite.jpg" style="width:1024px;"></a> </p>
 
