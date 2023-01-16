@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/C4D16AQGPXJ6_yUmfHA/profile-displaybackgroundimage-shrink_350_1400/0/1668856157028?e=1678924800&v=beta&t=njhPE94ZiCEl1R9Aqo4q1xqlUPzlOOWr6gRa7U4k1XM">
 
-##  <img src="https://skillicons.dev/icons?i=unity" /> About Paul Miell:
+##  <img src="https://skillicons.dev/icons?i=unity"> About Paul Miell:
 * Lead Unity Devloper @ Made For Gamers<br>
 * Unity game development<br>
 * Unity plugin development
@@ -12,11 +12,10 @@
 
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=paxron777&theme=dark&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://streak-stats.demolab.com?user=paxron777&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ## Projects
-The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam.  
-[![Steam Page](https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra)]
+The Prometheus Secret Noohra: Solo development of a puzzle/platformer game launched on Steam. 
 
 <p align="left"> <a href="https://store.steampowered.com/app/936210/The_Prometheus_Secret_Noohra" target="_blank"><img src="https://ahavah.azurewebsites.net/images/prometheusflashscreenwebsite.jpg" style="width:1024px;"></a> </p>
 
