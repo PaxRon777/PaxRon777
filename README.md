@@ -3,6 +3,7 @@
 ##  <img src="https://skillicons.dev/icons?i=unity"> About Paul Miell:
 * Unity Development Manager @ Made For Gamers<br>
 * Unity game development<br>
+* Game design<br>
 * Unity plugin development
 
 ## 🌐 Socials:
