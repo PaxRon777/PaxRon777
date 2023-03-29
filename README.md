@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/C4D16AQGPXJ6_yUmfHA/profile-displaybackgroundimage-shrink_350_1400/0/1668856157028?e=1678924800&v=beta&t=njhPE94ZiCEl1R9Aqo4q1xqlUPzlOOWr6gRa7U4k1XM">
 
 ##  <img src="https://skillicons.dev/icons?i=unity"> About Paul Miell:
-* Unity Development Manager @ Made For Gamers<br>
+* Unity Development Lead @ Made For Gamers<br>
 * Unity game development<br>
 * Game design<br>
 * Unity plugin development
