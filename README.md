@@ -1,8 +1,7 @@
 ##  <img src="https://skillicons.dev/icons?i=unity"> About Paul Miell:
-* Unity Development Lead @ Made For Gamers<br>
+* Development Director @PixelBru<br>
 * Unity game development<br>
 * Game design<br>
-* Unity plugin development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miell) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/paxron777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/paxron7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@paulmiell) 
