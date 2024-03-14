@@ -1,6 +1,6 @@
 ##  <img src="https://skillicons.dev/icons?i=unity"> About Paul Miell:
-* Development Director @PixelBru<br>
-* Unity game development<br>
+* Unity Development Director @PixelBru<br>
+* Game development<br>
 * Game design<br>
 
 ## 🌐 Socials:
