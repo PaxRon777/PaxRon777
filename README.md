@@ -1,4 +1,4 @@
-##  <img src="https://skillicons.dev/icons?i=unity"> About Paul Miell:
+##  <img src="https://skillicons.dev/icons?i=ai,cs,unity,dotnet,figma,vscode,visualstudio,github,css,html,js"> About Paul Miell:
 * Unity Development<br>
 * Game development Projects<br>
 * Electronic Projects<br>
