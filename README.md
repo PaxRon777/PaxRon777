@@ -1,6 +1,6 @@
 # About Paul Miell:
 ##  <img src="https://skillicons.dev/icons?i=ai,cs,unity,dotnet,figma,vscode,visualstudio,github,css,html,js,arduino,svg"> 
-- AI<br>
+- Local AI<br>
 - ComfyUI Workflows - Generative AI<br>
 - Unity3D - Game Development<br>
 - Electronics - Microcontrollers<br>
